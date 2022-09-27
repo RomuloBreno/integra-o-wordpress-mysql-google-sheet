@@ -116,4 +116,4 @@ function formatValue(valor) {
   return str
 }
 //Parte do código é da propria API do google, mas para termos um melhor aproveitamento da planilha temos mais linhas feitas a mão.
-//Esse código também é uma parceria com "Eduardo Pinheiro(Vou adicionar o Git Hub dele logo mais)"
+//Esse código também é uma parceria com "Eduardo Pinheiro(https://github.com/odraudep)"
